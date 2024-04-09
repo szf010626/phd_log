@@ -1,0 +1,11 @@
+1.首先要把causal的文章全都过一遍
+粗读，记录excel。
+---找文章，放在endnote上
+---记录excel
+
+2.管科研讨课的论文
+粗度，记录endnote，记录excel
+
+3.写jupyter 作业。
+---把作业中用到的R语言记录在pdf中。
+
