@@ -1,15 +1,25 @@
-0.整理那个 i 进入 :wq 的 github在上面
-记一下excel的文章
+0.整理那个 i 进入 :wq 的 github在上面 ok
 
 1.首先要把causal的文章全都过一遍
 粗读，记录excel。
----找文章，放在endnote上
----记录excel
+---找文章，放在endnote上 ok
+---记录excel 
+完成一篇。ok
+
 
 2.管科研讨课的论文
-粗度，记录endnote，记录excel
+粗读，记录endnote，记录excel
 
 3.写jupyter 作业。
 ---把作业中用到的R语言记录在pdf中。
 
 4.记录一下营销模型研究的文章和笔记。
+
+
+5.task 
+什么是bert，实现一下关于bert的微调？
+task，什么是topic model，能否实现一下关于topic model 的代码。
+
+6.开通一下学校的excel，看看能不能用云。。
+
+7.Cournot Competition

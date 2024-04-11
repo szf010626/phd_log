@@ -1,0 +1,12 @@
+1.写jupyter 作业。
+---把作业中用到的R语言记录在pdf中。
+
+2.记录一下营销模型研究的文章和笔记。
+
+3.task 
+什么是bert，实现一下关于bert的微调？
+task，什么是topic model，能否实现一下关于topic model 的代码。
+
+4.开通一下学校的excel，看看能不能用云。。
+
+8.Cournot Competition
